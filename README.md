@@ -25,7 +25,7 @@ How to get program to run:
 
 1. Install latest edition of PyCharm Community
 2. Go to "Get from VCS" on the welcome screen
-3. Paste this URL: https://github.com/jdelorm/WGUPS-Routing-Program
+3. Paste this URL: https://github.com/jdelorm/Machine-Learning-Spam-Detection
 4. Choose where to save the project and click "Clone"
 5. Install required libraries
 6. Once the project loads, find Main.py and open it.

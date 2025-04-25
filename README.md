@@ -2,9 +2,9 @@ Title: Email Classification System
 
 Purpose: To develop a machine learning model that accurately classifies emails as spam or not spam using algorithms such a Logical Regression, Naive Bayes, and SVM
 
-Author: John DeLorme
+Author: jdelorm
 
-Contact: jdelorm@wgu.edu
+Contact: jdelorm@bot.com
 
 Version: 1.0
 
